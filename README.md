@@ -42,6 +42,7 @@ endmodule
 ```
 
 **Boolean logic circuit**
+
 ![WhatsApp Image 2025-11-27 at 1 06 02 PM](https://github.com/user-attachments/assets/5af428d9-7a85-4304-83cd-d502c955c99a)
 
 **RTL realization**
